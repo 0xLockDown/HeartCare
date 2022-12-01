@@ -50,6 +50,10 @@ dependencies:
   provider: ^6.0.4
   flutter_toggle_tab: ^1.2.0
   regexpattern: ^2.1.0
+  flex_color_scheme: ^6.1.1
+  regexed_validator: ^2.0.0+1
+  heart_bpm: ^1.1.1+0
+  crypt: ^4.2.1
 
 
 dev_dependencies:

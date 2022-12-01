@@ -14,7 +14,10 @@ class _vitalsState extends State<vitals> {
     return const Scaffold(
       body: Center(child: Icon(Icons.monitor_heart,size: 150,
 
-      )),
+                                  // CLASS NOT NEEDED ???????
+
+        )
+      ),
     );
   }
 }
